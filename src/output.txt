@@ -1,0 +1,12 @@
+class
+a
+new
+class
+
+a
+"sadasd"
+
+b
+"sd\"
+sdsd"
+
